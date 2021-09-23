@@ -40,6 +40,10 @@ ro.vendor.qti.va_aosp.support=1
 # GBoard Spacing
 ro.com.google.ime.kb_pad_port_b=1
 
+# HavocOS Stuff
+ro.havoc.group.url=https://t.me/HavocOS_apollo
+ro.havoc.maintainer=Sebastian Sariego Benitez (segfault)
+
 # IMS
 persist.dbg.volte_avail_ovr=1
 persist.dbg.vt_avail_ovr=1
