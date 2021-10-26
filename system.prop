@@ -42,7 +42,9 @@ ro.com.google.ime.kb_pad_port_b=1
 
 # HavocOS Stuff
 ro.havoc.group.url=https://t.me/HavocOS_apollo
-ro.havoc.maintainer=Sebastian Sariego Benitez (segfault)
+ro.havoc.maintainer=Havoc CI
+ro.havoc.device.name= MI 10T /MI 10T PRO
+ro.havoc.maintainer.username=irongfly
 
 # IMS
 persist.dbg.volte_avail_ovr=1
