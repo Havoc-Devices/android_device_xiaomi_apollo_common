@@ -31,8 +31,8 @@ persist.vendor.dpm.feature=1
 ro.vendor.qti.va_aosp.support=1
 
 # Havoc
-ro.havoc.device.name=Mi 10T / 10T Pro
-ro.havoc.group.url=https://t.me/havocos_apollo
+ro.havoc.device.name=Xiaomi Mi 10T / 10T Pro
+ro.havoc.group.url=https://t.me/+eEwUXXcdBbg3MDk5
 ro.havoc.maintainer=Tushar Mahajan
 ro.havoc.maintainer.username=mahajant99
 
